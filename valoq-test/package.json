@@ -1,0 +1,9 @@
+{
+  "name": "valoq-test",
+  "version": "1.0.10",
+  "description": "Math Hub",
+  "main": "index.html",
+  "files": [
+    "*"
+  ]
+}
